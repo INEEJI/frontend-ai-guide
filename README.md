@@ -12,6 +12,10 @@ The goal is **not to enforce heavy processes**, but to help us:
 
 The core rules are defined in **TEAM_GUIDE.md**.
 
+Version: **v1.0**  
+Last updated: **2026-03-16**  
+When applying this guide to individual projects, keep this version value in the copied `TEAM_GUIDE.md` so changes can be tracked over time.
+
 ------------------------------------------------------------------------
 
 # Quick Start

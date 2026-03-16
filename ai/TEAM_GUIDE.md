@@ -1,5 +1,8 @@
 # TEAM_GUIDE.md
 
+**Version:** `v1.0`
+**Last Updated:** `2026-03-16`
+
 ## Purpose
 
 This guide defines the minimum engineering rules for working across many ongoing projects with mixed code quality.
