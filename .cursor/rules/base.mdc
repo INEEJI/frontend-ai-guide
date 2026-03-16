@@ -1,0 +1,11 @@
+---
+description: Base engineering behavior
+alwaysApply: true
+---
+
+- Follow TEAM_GUIDE.md.
+- Keep changes small and safe.
+- Do not refactor unrelated code.
+- If broader cleanup is needed, propose it separately.
+- In legacy files, improve only the touched area.
+- Do not copy poor legacy patterns into new code.
